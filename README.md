@@ -1,5 +1,5 @@
 # 💫 About Me:
-I study at the university at the faculty of Information Systems and Technologies. I love writing different programs. My favorite programming language is Python, which I have been learning since 2019. I specialize in writing web scrapers and bots for various social media platforms.
+I'm a passionate developer with a strong focus on Python, which I've been mastering since 2019. I enjoy building automation tools, bots, and web applications. I also work with databases, embedded systems, and backend development. Always exploring new technologies and improving my skills.
 
 
 ## 🌐 Socials:
